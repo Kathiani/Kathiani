@@ -40,5 +40,5 @@ Meu nome é Kathiani, sou aluna de doutorado na UFSCar, atualmente trabalhando c
   - Spring Framework
  
 - Computação numérica e Análise de Dados:
--   MATLAB
+  -   MATLAB
 
