@@ -1,5 +1,5 @@
 
-# Kathiani
+# Kathiani 🙈
 
 Meu nome é Kathiani, sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para cidades inteligentes e tolerância a defeitos.
 
