@@ -31,7 +31,7 @@ Meu nome é Kathiani, sou aluna de doutorado na UFSCar, atualmente trabalhando c
 - Linguagens:
   - C
   - Java
-  - 
+    
 - Frameworks já usados:
   - JUnit (testes)
   - JSF (JavaServer Faces)
