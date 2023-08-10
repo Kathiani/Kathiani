@@ -1,7 +1,7 @@
 
-# Kathiani 🙈
+# Kathiani 
 
-Meu nome é Kathiani, sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para cidades inteligentes e tolerância a defeitos.
+Sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para cidades inteligentes e tolerância a defeitos.
 
 ## Formação Acadêmica
 - Mestrado em [Ciência da Computação], UFSCar
