@@ -10,7 +10,7 @@ Sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para c
 ## Experiência Profissional
 - [UNIVESP], Supersivora Pedagógica  (9meses)
 - [UNIVESP], Mediadora Pedagógica  (1ano)
-- [INVICTOS Technologia], Suporte Técnico (8meses)
+- [INVICTOS Technologia], Suporte Técnico [estágio] (8meses)
 
 ## Áreas de Interesse
 - Cidades Inteligentes
@@ -26,18 +26,24 @@ Sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para c
 - E-mail: [kathianisouza@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/kathiani-souza-879b4245/]
 
- ## Tecnologias e Frameworks
-- Linguagens:
+ ## Tecnologias e Frameworks Utilizados
+- Linguagens de programação:
   - C
   - Java
+
+- Linguagens de consulta:
+-  SQL
     
 - Frameworks já usados:
   - JUnit (testes)
   - JSF (JavaServer Faces)
+  - SpringBoot
  
 - Frameworks em utilização:
   - Spring Framework
  
 - Computação numérica e Análise de Dados:
   -   MATLAB
+ 
+  - O link com minhas publicações científicas junto com colaboradores estão na plataforma lattes: http://lattes.cnpq.br/9683518307799065 
 
