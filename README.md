@@ -14,7 +14,7 @@
 - Aplicações para cidades inteligentes
 - Aplicações Web
  
- ## 👩🏾‍💻 Tecnologias e Frameworks Utilizados
+ ## 🛠️ Tecnologias e Frameworks Utilizados
 - Linguagens de programação:
   - C
   - Java
