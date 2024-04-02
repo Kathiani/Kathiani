@@ -4,8 +4,8 @@
 🙂 Olá sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para cidades inteligentes e tolerância a defeitos.
 
 ## Formação Acadêmica
-- Mestrado em [Ciência da Computação] [UFSCar/SP].
-- Graduação em [Sistemas de Informação] [UFGD/MS].
+- Mestrado em Ciência da Computação [UFSCar/SP].
+- Graduação em Sistemas de Informação [UFGD/MS].
 
 ## Áreas de Interesse
 - Engenharia de software/Arquitetura de software
