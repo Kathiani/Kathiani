@@ -1,7 +1,7 @@
 
 # Kathiani 
 
-🙂 Olá sou aluna de doutorado na UFSCar, atualmente trabalhando com aplicações para cidades inteligentes e tolerância a defeitos.
+🙂 Olá sou aluna de doutorado na UFSCar, atualmente participo de pesquisa sobre aplicações para cidades inteligentes e tolerância a defeitos.
 
 ## Formação Acadêmica
 - Mestrado em Ciência da Computação [UFSCar/SP].
@@ -18,18 +18,17 @@
 - Linguagens de programação:
   - C
   - Java
-
-- Linguagens de consulta:
--  SQL
-    
+  - Python
+- Banco de dados:
+    - MySQL
+    - MongoDB
+    - Linguagem de Consulta:
+       - SQL    
 - Frameworks já usados:
   - JUnit (testes)
   - JSF (JavaServer Faces)
   - SpringBoot
- 
-- Frameworks em utilização:
-  - Spring Framework
- 
+  - SpringMVC 
 - Computação numérica e Análise de Dados:
   -   MATLAB
  
