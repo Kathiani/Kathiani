@@ -12,7 +12,7 @@
 - Dependabilidade/Tolerância a defeitos 
 - Sistemas sensíveis ao contexto
 - Aplicações para cidades inteligentes
-- Desenvolvimento para Web
+- Desenvolvimento de software para Web
  
  ## 🛠️ Tecnologias e Frameworks Utilizados
 - Linguagens de programação:
