@@ -14,7 +14,7 @@
 - Aplicações para cidades inteligentes
 - Aplicações Web
  
- ## Tecnologias e Frameworks Utilizados
+ ## 👩🏾‍💻 Tecnologias e Frameworks Utilizados
 - Linguagens de programação:
   - C
   - Java
@@ -33,6 +33,6 @@
 - Computação numérica e Análise de Dados:
   -   MATLAB
  
-  - O link com minhas publicações científicas junto com colaboradores estão na plataforma lattes: http://lattes.cnpq.br/9683518307799065
-   - LinkedIn: [https://www.linkedin.com/in/kathiani-souza-879b4245/]
+ O link com minhas publicações científicas junto com colaboradores estão na plataforma lattes: http://lattes.cnpq.br/9683518307799065
+ - LinkedIn: [https://www.linkedin.com/in/kathiani-souza-879b4245/]
 
