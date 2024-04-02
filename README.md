@@ -8,11 +8,11 @@
 - Graduação em Sistemas de Informação [UFGD/MS].
 
 ## Áreas de Interesse
--Engenharia de software/Arquitetura de software
--Dependabilidade/Tolerância a defeitos
--Sistemas sensíveis ao contexto
--Aplicações para cidades inteligentes
--Desenvolvimento de software para Web
+ -Engenharia de software/Arquitetura de software
+ -Dependabilidade/Tolerância a defeitos
+ -Sistemas sensíveis ao contexto
+ -Aplicações para cidades inteligentes
+ -Desenvolvimento de software para Web
 
  ## 🛠️ Linguagens e frameworks 
 - Linguagens de programação:
