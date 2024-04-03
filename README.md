@@ -1,7 +1,7 @@
 
 # Kathiani 
 
-🙂 Olá sou aluna de doutorado na UFSCar, atualmente participo de pesquisa sobre aplicações para cidades inteligentes e tolerância a defeitos.
+🙂 Olá
 
 ## Áreas de Interesse
 - Engenharia de software/Arquitetura de software
