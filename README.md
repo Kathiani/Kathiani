@@ -24,8 +24,7 @@
   - JUnit (testes)
   - JSF (JavaServer Faces)
   - JPA
-  - Spring (SpringBoot, SpringData)
-  - SpringMVC 
+  - Spring (SpringBoot, SpringData, SpringMVC)
 - Computação numérica e Análise de Dados:
   -   MATLAB
  
