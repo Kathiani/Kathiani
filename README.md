@@ -23,7 +23,7 @@
 - Frameworks já usados:
   - JUnit (testes)
   - JSF (JavaServer Faces)
-  - SpringBoot
+  - Spring (SpringBoot, SpringData)
   - SpringMVC 
 - Computação numérica e Análise de Dados:
   -   MATLAB
