@@ -1,9 +1,4 @@
 
-# Kathiani 
-
-🙂 Olá 
-
-tento resolver mais problemas do que criar 🦭
 
 ## Áreas de Interesse
 - Engenharia de software/Arquitetura de software
